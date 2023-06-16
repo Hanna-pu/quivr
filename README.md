@@ -166,3 +166,4 @@ Don't hesitate to come with new ones too :)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=StanGirard/quivr&type=Date)](https://star-history.com/#StanGirard/quivr&Date)
+python
